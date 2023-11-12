@@ -1,0 +1,1 @@
+link -subsystem:console -out:zdanie32.exe zdanie32.obj libcmt.lib

@@ -1,0 +1,7 @@
+Zadanie:
+- wprowadź dane imie i nazwisko z konsoli
+	codepage 852, CP 852
+- wypisz w konsoli na odwrót
+	przykład: "Igor Józefowicz\n" -> "Józefowicz Igor\n"
+	znaleźć spację
+- wyświetl to samo w oknie MessageBoxW@16

@@ -1,0 +1,7 @@
+MASM101 manual - Visual Studio
+- change x64 to x86
+- create new C++ empty project
+- "your project name" -> Properties
+- Source Files -> Add -> New item -> create new file
+	- name it foo.asm
+- Project -> Properties -> Command Line -> Additional Options -> "libcmt.lib"
