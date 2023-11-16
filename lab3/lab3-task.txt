@@ -1,0 +1,3 @@
+Napisz podprogram, który wczytuje z klawiatury liczbę 96 bitową do trójki rejestrów ECX:EDX:EAX. Format liczby szesnastkowy.
+
+W następnym kroku należy wykonać odejmowanie wczytywanych dwóch liczb 96 bitowych (zakładając, że odjemna>odjemnik) i wyświetlić wynik w konsoli w formacie dzisiętnym.
