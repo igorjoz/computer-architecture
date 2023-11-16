@@ -1,0 +1,12 @@
+add ax, [ebx+ecx]
+add ecx, 2
+add ax, [ebx+ecx]
+add ecx, 2
+add ax, [ebx+ecx]
+add ecx, 2
+add ax, [ebx+ecx]
+add ecx, 2
+add ax, [ebx+ecx]
+add ecx, 2
+add ax, [ebx+ecx]
+add ecx, 2
