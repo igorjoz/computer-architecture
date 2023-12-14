@@ -8,6 +8,7 @@ public _main
 
 .data
 	text db "Hello world!", 10
+	; 10 - znak nowej linii
 
 .code
 _main PROC
