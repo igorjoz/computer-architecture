@@ -1,3 +1,21 @@
 Napisz podprogram, który wczytuje z klawiatury liczbę 96 bitową do trójki rejestrów ECX:EDX:EAX. Format liczby szesnastkowy.
 
 W następnym kroku należy wykonać odejmowanie wczytywanych dwóch liczb 96 bitowych (zakładając, że odjemna>odjemnik) i wyświetlić wynik w konsoli w formacie dzisiętnym.
+
+Wejściówka:
+1. Zapisz mnożenie EAX przez 8 bez używania rozkazu MUL
+	Odp.:
+	ADD EAX, EAX
+	ADD EAX, EAX
+	ADD EAX, EAX
+	ADD EAX, EAX
+	
+2. Czy rozkaz mul BYTE PTR 10 zadziała? Jeśli nie, napisz rozkaz, który zadziała
+
+Odp.:	NIE
+		MOV EDX, 10
+		MUL EDX
+
+3.:		
+
+ADD [ESP], 4
