@@ -3,5 +3,5 @@ MASM101 manual - Visual Studio
 - create new C++ empty project
 - "your project name" -> Properties
 - Source Files -> Add -> New item -> create new file
-	- name it foo.asm
-- Project -> Properties -> Command Line -> Additional Options -> "libcmt.lib"
+	- name it your_filename.asm
+- Project -> Properties -> Linker -> Command Line -> Additional Options -> write "libcmt.lib" there
